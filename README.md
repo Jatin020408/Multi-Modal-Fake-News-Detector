@@ -38,6 +38,8 @@ The extracted features are fused and passed through a classifier to predict whet
 
 ##  Architecture
 <img src="images/Model.png" alt="Model Architecture" width="400"/>
+
+
 ```text
               ┌──────────────┐        ┌────────────────––┐
               │  Clean Text  │        │    Image URL     │
@@ -111,7 +113,7 @@ The extracted features are fused and passed through a classifier to predict whet
 
 ## Test Prediction
 
-<img src="images/Test_Prediction.png" alt="Test_Prediction" width="400"/>
+<img src="images/Test_Prediction.png" alt="Test_Prediction" height = "400" width="400"/>
 <img src="images/Prediction_image.png" alt="Prediction_image" width="400"/>
 
 
