@@ -37,7 +37,11 @@ The extracted features are fused and passed through a classifier to predict whet
 ---
 
 ##  Architecture
-<img src="images/Model.png" alt="Model Architecture" width="600"/>
+<p align="center">
+  <img src="images/Model.png" alt="Model Architecture" width="500" 
+       style="border:2px solid #ccc; border-radius:8px;" />
+</p>
+
 
 
 ```text
