@@ -78,7 +78,7 @@ The extracted features are fused and passed through a classifier to predict whet
 ##  Training Summary
 
 <p align="center">
-  <img src="images/Training_Epochs.png" alt="Training Epochs" width="500" 
+  <img src="images/Training_Epochs.png" alt="Training Epochs" width="800" 
        style="border:2px solid #ccc; border-radius:8px;" />
 </p>
 
@@ -124,11 +124,11 @@ The extracted features are fused and passed through a classifier to predict whet
 
 ## Test Prediction
 <p align="center">
-  <img src="images/Prediction_image.png" alt="Prediction_image" width="500" 
+  <img src="images/Prediction_image.png" alt="Prediction_image" width="400" 
        style="border:2px solid #ccc; border-radius:8px;" />
 </p>
 <p align="center">
-  <img src="images/Test_Prediction.png" alt="Test_Prediction" width="500" 
+  <img src="images/Test_Prediction.png" alt="Test_Prediction" width="1000" 
        style="border:2px solid #ccc; border-radius:8px;" />
 </p>
 
