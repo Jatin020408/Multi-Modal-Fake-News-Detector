@@ -76,7 +76,11 @@ The extracted features are fused and passed through a classifier to predict whet
 ```
 
 ##  Training Summary
-![Training Epochs](images/Training_Epochs.png)
+
+<p align="center">
+  <img src="images/Training_Epochs.png" alt="Training Epochs" width="500" 
+       style="border:2px solid #ccc; border-radius:8px;" />
+</p>
 
 | Metric         | Value     |
 |----------------|-----------|
@@ -89,8 +93,11 @@ The extracted features are fused and passed through a classifier to predict whet
 
 ## Classification Report 
 
-<img src="images/confusion_matrix.png" alt="Confusion matrix" width="400"/>
 
+<p align="center">
+  <img src="images/confusion_matrix.png" alt="Confusion matrix" width="500" 
+       style="border:2px solid #ccc; border-radius:8px;" />
+</p>
 
 | Class | Precision | Recall | F1-Score | Support |
 |-------|-----------|--------|----------|---------|
@@ -116,9 +123,14 @@ The extracted features are fused and passed through a classifier to predict whet
 - **Checkpoints**: Best model saved as `best_model.h5`
 
 ## Test Prediction
-
-<img src="images/Test_Prediction.png" alt="Test_Prediction" width="1000"/>
-<img src="images/Prediction_image.png" alt="Prediction_image" width="400"/>
+<p align="center">
+  <img src="images/Prediction_image.png" alt="Prediction_image" width="500" 
+       style="border:2px solid #ccc; border-radius:8px;" />
+</p>
+<p align="center">
+  <img src="images/Test_Prediction.png" alt="Test_Prediction" width="500" 
+       style="border:2px solid #ccc; border-radius:8px;" />
+</p>
 
 
 
