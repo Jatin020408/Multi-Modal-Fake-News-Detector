@@ -113,7 +113,7 @@ The extracted features are fused and passed through a classifier to predict whet
 
 ## Test Prediction
 
-<img src="images/Test_Prediction.png" alt="Test_Prediction" height = "800" width="400"/>
+<img src="images/Test_Prediction.png" alt="Test_Prediction" width="1000"/>
 <img src="images/Prediction_image.png" alt="Prediction_image" width="400"/>
 
 
