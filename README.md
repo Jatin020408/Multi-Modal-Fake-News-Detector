@@ -37,7 +37,7 @@ The extracted features are fused and passed through a classifier to predict whet
 ---
 
 ##  Architecture
-![Model Architecture](images/model.png)
+![Model Architecture](images/Model.png)
 ```text
               ┌──────────────┐        ┌────────────────––┐
               │  Clean Text  │        │    Image URL     │
@@ -83,7 +83,8 @@ The extracted features are fused and passed through a classifier to predict whet
 
 ## Classification Report 
 
-![Confusion matrix](images/confusion_matrix.png)
+<img src="images/confusion_matrix.png" alt="Confusion matrix" width="400"/>
+
 
 | Class | Precision | Recall | F1-Score | Support |
 |-------|-----------|--------|----------|---------|
